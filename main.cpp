@@ -10,6 +10,10 @@ int main(int argc, char * argv[])
 	std::cout << "a + b: " << (a + b) << std::endl;
 	std::cout << "a - b: " << (a - b) << std::endl;
 
+	// add 4 lines
+	const int SUM = a + b;
+	std::cout << "a + b: " << SUM << std::endl;
+
 	return 0;
 }
 
