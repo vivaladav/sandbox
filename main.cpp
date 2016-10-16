@@ -2,7 +2,6 @@
 
 int main(int argc, char * argv[])
 {
-	// adding a comment to add a single line
 	int a = 1;
 	int b = 2;
 
