@@ -14,6 +14,10 @@ int main(int argc, char * argv[])
 	const int SUM = a + b;
 	std::cout << "a + b: " << SUM << std::endl;
 
+	// adding more lines in master
+	const int DIFF = a - b;
+	std::cout << "a - b: " << SUM << std::endl;
+
 	return 0;
 }
 
