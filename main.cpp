@@ -2,7 +2,6 @@
 
 int main(int argc, char * argv[])
 {
-	// this is for testing a branch
 	int a = 1;
 	int b = 2;
 
