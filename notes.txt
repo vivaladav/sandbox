@@ -7,3 +7,5 @@ Added this line.
 Added more lines.
 
 This was added after the merge with master.
+
+Adding more to notes in test2.
