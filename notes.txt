@@ -5,3 +5,5 @@ Added this line.
 Added more lines.
 
 This was added after the merge with master.
+
+Added line.
