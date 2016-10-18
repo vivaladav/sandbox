@@ -20,7 +20,6 @@ int main(int argc, char * argv[])
 	const int DIFF = a - b;
 	std::cout << "a - b: " << SUM << std::endl;
 
-	// goodbye by test branch
 	return 0;
 }
 
