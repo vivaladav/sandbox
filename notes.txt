@@ -10,3 +10,5 @@ This was added after the merge with master.
 
 Adding more to notes in test2.
 Adding more to notes in test2 - part2.
+
+Added line.
