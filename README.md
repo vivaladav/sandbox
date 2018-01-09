@@ -1,3 +1,3 @@
 # sandbox
 
-repository used to test things with git, libgit2 and other stuff
+repository used to test things with git, libgit2 and other stuff.
