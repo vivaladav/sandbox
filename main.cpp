@@ -18,6 +18,8 @@ int main(int argc, char * argv[])
 	// adding more lines in master
 	const int DIFF = a - b;
 	std::cout << "a - b: " << SUM << std::endl;
+	
+	// this is the comment in special
 
 	// this is a change that should only be in master
 
