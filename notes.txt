@@ -14,3 +14,5 @@ Adding more to notes in test2 - part2.
 Added line.
 
 New change.
+
+A change from special to master.
