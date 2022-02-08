@@ -21,8 +21,6 @@ int main(int argc, char * argv[])
 	
 	// this is the comment in special
 
-	// this is a change that should only be in master
-
 	return 0;
 }
 
